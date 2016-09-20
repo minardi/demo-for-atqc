@@ -1,2 +1,4 @@
 @test
-lalala
+hello boys and girls :)
+
+@endTest
